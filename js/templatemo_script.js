@@ -1,5 +1,3 @@
-/* Credit: http://www.templatemo.com */
-
 var menuDisabled = false;
 
 jQuery(function($) {
